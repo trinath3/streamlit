@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.write("""
-#Finding the largest among the 3 given numbers(value greater than the other two).
+# Finding the largest among the 3 given numbers(value greater than the other two).
 """)
 #Get Input
 
